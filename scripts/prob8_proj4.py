@@ -96,7 +96,7 @@ plt.xlabel('Temperature [$J/k_B$]')
 plt.legend()
 plt.tight_layout()
 plt.savefig('chi_prob8.pdf')
-
+plt.show()
 
 """
 Problem 9:
